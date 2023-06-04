@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio-svetlana-two/static/css/main.d7c6ed02.css",
+    "main.js": "/portfolio-svetlana-two/static/js/main.73eb99a4.js",
+    "static/media/profilepic.jpeg": "/portfolio-svetlana-two/static/media/profilepic.680795fab9449ffd0a58.jpeg",
+    "static/media/htmlcss.png": "/portfolio-svetlana-two/static/media/htmlcss.104bf723a23b0d9ee564.png",
+    "static/media/mario.png": "/portfolio-svetlana-two/static/media/mario.d97b293efe4f2283b467.png",
+    "static/media/todo.png": "/portfolio-svetlana-two/static/media/todo.ac43ac02befb02d2a544.png",
+    "index.html": "/portfolio-svetlana-two/index.html",
+    "main.d7c6ed02.css.map": "/portfolio-svetlana-two/static/css/main.d7c6ed02.css.map",
+    "main.73eb99a4.js.map": "/portfolio-svetlana-two/static/js/main.73eb99a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c6ed02.css",
+    "static/js/main.73eb99a4.js"
+  ]
+}

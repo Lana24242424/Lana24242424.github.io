@@ -12,7 +12,7 @@ import Portfoliotwo from './components/Portfoliotwo'
 
 function App() {
   return (
-    <div class="App">
+    <div className="App">
       <Routes>
         <Route path="/" element={<Layout />}>
 

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Lana24242424.github.io/static/css/main.d7c6ed02.css",
-    "main.js": "/Lana24242424.github.io/static/js/main.379aa277.js",
-    "static/media/profilepic.jpeg": "/Lana24242424.github.io/static/media/profilepic.680795fab9449ffd0a58.jpeg",
-    "static/media/htmlcss.png": "/Lana24242424.github.io/static/media/htmlcss.104bf723a23b0d9ee564.png",
-    "static/media/mario.png": "/Lana24242424.github.io/static/media/mario.d97b293efe4f2283b467.png",
-    "static/media/todo.png": "/Lana24242424.github.io/static/media/todo.ac43ac02befb02d2a544.png",
-    "index.html": "/Lana24242424.github.io/index.html",
-    "main.d7c6ed02.css.map": "/Lana24242424.github.io/static/css/main.d7c6ed02.css.map",
-    "main.379aa277.js.map": "/Lana24242424.github.io/static/js/main.379aa277.js.map"
+    "main.css": "/static/css/main.d7c6ed02.css",
+    "main.js": "/static/js/main.12828364.js",
+    "static/media/profilepic.jpeg": "/static/media/profilepic.680795fab9449ffd0a58.jpeg",
+    "static/media/htmlcss.png": "/static/media/htmlcss.104bf723a23b0d9ee564.png",
+    "static/media/mario.png": "/static/media/mario.d97b293efe4f2283b467.png",
+    "static/media/todo.png": "/static/media/todo.ac43ac02befb02d2a544.png",
+    "index.html": "/index.html",
+    "main.d7c6ed02.css.map": "/static/css/main.d7c6ed02.css.map",
+    "main.12828364.js.map": "/static/js/main.12828364.js.map"
   },
   "entrypoints": [
     "static/css/main.d7c6ed02.css",
-    "static/js/main.379aa277.js"
+    "static/js/main.12828364.js"
   ]
 }
